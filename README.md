@@ -10,7 +10,7 @@ Transcription functions as a pivotal biological process in cell biology, for whi
 
 # 2.Dependencies
 
-python==3.10.0
+python==3.8.0
 
 pytorch==2.4.1
 
@@ -18,7 +18,7 @@ numpy==1.24.1
 
 pandas==1.4.4
 
-scikit-learn==1.5.2
+scikit-learn==1.3.2
 
 tqdm==4.65.0
 
