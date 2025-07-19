@@ -2,7 +2,7 @@
 
 The overall architectures of BERT-TFBS is presented in the following figure
 
-![DeepCTMS](https://github.com/Ethereal0510/DeepCTMS/blob/main/image/DeepCTMS.png)
+![DeepCTMS](https://github.com/Ethereal0510/DeepCTMS/blob/main/image/Fig1.png)
 
 # 1.Introduce
 
